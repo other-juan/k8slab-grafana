@@ -1,5 +1,5 @@
 apiVersion: v2
-name: cert-manager-wrapper
+name: grafana
 version: 0.1.0
 dependencies:
   - name: grafana
